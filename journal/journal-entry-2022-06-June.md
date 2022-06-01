@@ -1,4 +1,4 @@
-# Journal Entry: June 2022
+# Journal Entry: June 2022 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 01 Wednesday, June 1st
 Day 0!... Or day 1, depending on how you count it I suppose. *[Insert witty joke about Computer Scientists being obsessed with counting from 0]*.
