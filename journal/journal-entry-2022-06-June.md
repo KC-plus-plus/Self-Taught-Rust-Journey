@@ -16,3 +16,5 @@ I think I will start over on that... again. As of right now I don't think I will
 As far as improving my self-teaching, a couple articles came up while I was internet searching that I may want to look at more in the future. Here they are: [Nat Eliason Blog](https://www.nateliason.com/blog/self-education), [Lifehack Article by Dustin Wax](https://www.lifehack.org/articles/featured/becoming-self-taught.html).
 
 Setting up this repo I think was a good acomplishment but I think if I want to keep the ball rolling I should do at least a little bit of Rustlings today as well, that way I can start off with a good momentum.
+
+Update: I had a big brain move called "Remembering that this is a Github repo and therefore I have access to features like issues and projects" (it's a working title). So I made an [issue tracker for completing rustlings](https://github.com/KC-plus-plus/Self-Taught-Rust-Journey/issues/1).
