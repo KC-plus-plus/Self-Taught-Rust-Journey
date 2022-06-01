@@ -9,6 +9,7 @@ Should I think of more ideas later, they can be added to this list:
 - What are some example *Problems & Solutions*? Solving problems and coming up with them shows the ability to apply what you've learned. These could be written response or code based.
 - What is an example of *Something You Can Relate This To* that you could give? Relating something you already know to something you don't know can help make better connections in your brain and improve understanding & memory.
 - What is some *Repetitive Practice* you did? Where example problems test your problem solving, repetitive practive is more about memory. Something like declaring 20 variables with different types may help with memorizing syntax and data types.
+- What are some *Resources* that were helpful? Linking to any sorta books or guides or videos is just good documentation.
 
 ## Formatting and Layout
 The layout of this folder should be consistent in order to naviagte easier.
