@@ -12,3 +12,7 @@ Currently the repo looks ready for note taking and my current focus is going to 
 During the spring semester I got about halfway through and then got distracted from it with school being busy.
 I recently took another crack at it but I think I was just blazing through and just trying to solve the problem asap while (re)learning the minimal amount just to get by, and I don't think that's a good way to approach it.
 I think I will start over on that... again. As of right now I don't think I will be posting any of my code work for Rustlings to this repo, I don't see much point.
+
+As far as improving my self-teaching, a couple articles came up while I was internet searching that I may want to look at more in the future. Here they are: [Nat Eliason Blog](https://www.nateliason.com/blog/self-education), [Lifehack Article by Dustin Wax](https://www.lifehack.org/articles/featured/becoming-self-taught.html).
+
+Setting up this repo I think was a good acomplishment but I think if I want to keep the ball rolling I should do at least a little bit of Rustlings today as well, that way I can start off with a good momentum.
