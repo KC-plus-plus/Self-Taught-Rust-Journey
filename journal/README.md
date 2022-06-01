@@ -1,4 +1,5 @@
-# Journal
+# Journal [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 The purpose of the journal is to document what I learn along the way, it's my notes.
 The notes should be organized for easy lookup and should include plenty of information about my findings.
 
