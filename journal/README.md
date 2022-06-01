@@ -18,3 +18,5 @@ The plan for an organized layout is to introduce folders for years should I be a
 Names of folders and files should be labeled such that an alphabetical sort will make them in chronological order from oldest to newest.
 The files will include year names regardless of whether there are folders to sort by year.
 A file for each month should do well, since it's unlikely that I will have substantial information to write about in every daily entry and I could make daily entries into headings of the month file.
+
+It looks like markdown files are what I'll bee going with for the time being and potentially forever.
