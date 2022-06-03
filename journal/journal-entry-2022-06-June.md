@@ -18,3 +18,12 @@ As far as improving my self-teaching, a couple articles came up while I was inte
 Setting up this repo I think was a good acomplishment but I think if I want to keep the ball rolling I should do at least a little bit of Rustlings today as well, that way I can start off with a good momentum.
 
 Update: I had a big brain move called "Remembering that this is a Github repo and therefore I have access to features like issues and projects" (it's a working title). So I made an [issue tracker for completing rustlings](https://github.com/KC-plus-plus/Self-Taught-Rust-Journey/issues/1).
+
+## 02 Thursday, June 2nd
+Nothing to report.
+
+## 03 Friday, June 3rd
+Okay, maybe I was a little ambitious to think that I'd make this whole repo and then actually start doing the thing in the same day, because, as it turns out, I did not start rustlings that day, nor the day after, but I did now! So time to talk about variables.
+
+### Variables
+The first rustlings section is about variables. Coming from C++ i can already see similarities. Rust is statically typed and avoids uninitialized behavior. In C++ it's more on the programmer to avoid uninitialized variables, but the Rust compiler will complain at you for not initializing which is good. The syntax is a little weird for me because in C++, the data type *is* the keyword for declaring the variable, whereas in Rust, the keyword is `let` (or `const`) and then the type annotation comes *after* the name (and before the value). Rust variables are also immutable by default which is an interesting change of pace, if you want it to be mutable then you add the `mut` keyword after `let`. Interestingly, Rust allows and encourages the use of shadowing, where you can basically reuse a variable name for a different variable. If you use `let` again on a variable then you can shadow it and assign a different value even if it's immutable, you can even give it a new type! It's not *actually* overwriting, because if you did the overwrite in an inner scope and left that scope then it would go back to the value in the outer scope. Also something worth noting, C++ types work on a guarenteed minumum size, but Rust you very explicitly specify the size like `i32` for example. Integer division behaves like C++. Arrays and tuples exist but aren't covered at in the variables part of Rustlings. Arrays have a weird syntax to me but I don't have to learn that right now.
